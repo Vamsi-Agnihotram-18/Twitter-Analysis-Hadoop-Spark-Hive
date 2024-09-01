@@ -1,5 +1,5 @@
 # Twitter-Data-Analysis-on-COVID19-using-Hadoop-Flume-Hive-and-Spark.
-Project Done by: Vamsi Agnihotram, Komal Venugopal Vattumilli as a part of CMPE281 Cloud Technologies major Project, SJSU
+Project Done by: Vamsi Agnihotram, Komal Venugopal Vattumilli as a part of our CMPE coursework Big Data & Cloud Technologies major Project, SJSU
 
 This project aims to use the Hadoop framework to analyze unstructured data that we obtain from Twitter and perform sentiment and trend analysis using Hive on MapReduce and Spark on keyword “COVID19”. We then compare the Hive and Spark approaches to determine the best performance.
 
